@@ -1,7 +1,6 @@
 ### Olá eu sou a Ellen Peres 👩‍💻
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ellen-peres&bg_color=e4b4de&color=1e4106&line=0e6246&point=781111&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ellen-peres&bg_color=d9b3ff&color=3b1957&line=1d443d&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ellen-dos-santos-peres-a97669251)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ellenperessantos@gmail.com)
